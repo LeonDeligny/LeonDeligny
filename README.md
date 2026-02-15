@@ -44,4 +44,4 @@
 ![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=ios&logoColor=white)
 [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
 
-Where I found the badges: https://github.com/inttter/md-badges
+Badgets used [from](https://github.com/inttter/md-badges).
