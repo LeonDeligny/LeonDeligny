@@ -35,7 +35,7 @@
 [![Codacy](https://img.shields.io/badge/Codacy-222F29?logo=codacy&logoColor=fff)](#)
 [![Codecov](https://img.shields.io/badge/Codecov-F01F7A?logo=codecov&logoColor=fff)](#)
 
-## Preferred Integrated Development Environment (IDEs)
+## Preferred IDE
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
 
 ## Operating Systems
