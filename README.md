@@ -1,6 +1,6 @@
 ## About Me
 
-I work at the intersection of Applied Physics and Machine/Deep Learning Theory. Lately, I started research in functional meshing theory and it's applications to Physically-Informed Neural Networks (PINNs).
+I work at the intersection of **Applied Physics** and **Machine/Deep Learning Theory**. Lately, I started research in functional meshing theory and it's applications to Physically-Informed Neural Networks (PINNs).
 
 Beyond work, I like to develop products that are useful and feel easy to use.
 
@@ -15,5 +15,5 @@ Beyond work, I like to develop products that are useful and feel easy to use.
 
 ## Education
 
-M.Sc. in Applied Mathematics (EPFL) :: Machine/Deep Learning & Fluid Dynamics
-B.Sc. in Pure Mathematics (EPFL) :: Algebraic & Category Theory
+- M.Sc. in **Applied Mathematics** :: EPFL :: Machine/Deep Learning & Fluid Dynamics
+- B.Sc. in **Pure Mathematics** :: EPFL :: Algebraic & Category Theory
